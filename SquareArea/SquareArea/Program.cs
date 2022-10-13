@@ -11,7 +11,7 @@ namespace SquareArea
 
             //rectangles values
             float sideA = 10.5f;
-            float sideB = 20;
+            int sideB = 20;
 
             // rectangule area formula is a*b
             float area = sideA * sideB;
