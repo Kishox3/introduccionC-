@@ -1,0 +1,14 @@
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.exe
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.deps.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.runtimeconfig.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.runtimeconfig.dev.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.csproj.AssemblyReference.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.AssemblyInfoInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.AssemblyInfo.cs
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.csproj.CoreCompileInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.genruntimeconfig.cache
