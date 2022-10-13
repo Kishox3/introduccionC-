@@ -8,5 +8,5 @@ bool value3 = false;
 // && , || , !
 // and , or , not
 
-bool result = value1 && value2 && value3;
+bool result = value1 || value2 || value3;
 Console.WriteLine("The result of the logical AND is: " + result);
