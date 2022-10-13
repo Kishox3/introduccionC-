@@ -1,0 +1,15 @@
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.exe
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.deps.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.runtimeconfig.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.csproj.AssemblyReference.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.AssemblyInfoInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.AssemblyInfo.cs
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.csproj.CoreCompileInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\refint\LogicalOperatorsExample.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.genruntimeconfig.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\ref\LogicalOperatorsExample.dll
