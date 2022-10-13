@@ -12,6 +12,11 @@ namespace SquareArea
             //rectangles values
             float sideA = 10.5f;
             int sideB = 20;
+            sideB++; //INCREMENTA LA VARIABLE DE 1 EN 1 CADA VEZ QUE SE EJECUTA
+            sideB++;
+            sideB++;
+            sideB++;
+            sideB--;
 
             // rectangule area formula is a*b
             float area = sideA * sideB;
