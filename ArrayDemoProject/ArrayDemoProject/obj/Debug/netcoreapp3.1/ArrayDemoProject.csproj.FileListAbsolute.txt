@@ -1,0 +1,14 @@
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\bin\Debug\netcoreapp3.1\ArrayDemoProject.exe
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\bin\Debug\netcoreapp3.1\ArrayDemoProject.deps.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\bin\Debug\netcoreapp3.1\ArrayDemoProject.runtimeconfig.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\bin\Debug\netcoreapp3.1\ArrayDemoProject.runtimeconfig.dev.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\bin\Debug\netcoreapp3.1\ArrayDemoProject.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\bin\Debug\netcoreapp3.1\ArrayDemoProject.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\obj\Debug\netcoreapp3.1\ArrayDemoProject.csproj.AssemblyReference.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\obj\Debug\netcoreapp3.1\ArrayDemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\obj\Debug\netcoreapp3.1\ArrayDemoProject.AssemblyInfoInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\obj\Debug\netcoreapp3.1\ArrayDemoProject.AssemblyInfo.cs
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\obj\Debug\netcoreapp3.1\ArrayDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\obj\Debug\netcoreapp3.1\ArrayDemoProject.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\obj\Debug\netcoreapp3.1\ArrayDemoProject.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\ArrayDemoProject\ArrayDemoProject\obj\Debug\netcoreapp3.1\ArrayDemoProject.genruntimeconfig.cache
