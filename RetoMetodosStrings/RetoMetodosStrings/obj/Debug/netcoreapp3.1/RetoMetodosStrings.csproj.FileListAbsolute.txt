@@ -1,0 +1,14 @@
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\bin\Debug\netcoreapp3.1\RetoMetodosStrings.exe
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\bin\Debug\netcoreapp3.1\RetoMetodosStrings.deps.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\bin\Debug\netcoreapp3.1\RetoMetodosStrings.runtimeconfig.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\bin\Debug\netcoreapp3.1\RetoMetodosStrings.runtimeconfig.dev.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\bin\Debug\netcoreapp3.1\RetoMetodosStrings.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\bin\Debug\netcoreapp3.1\RetoMetodosStrings.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\obj\Debug\netcoreapp3.1\RetoMetodosStrings.csproj.AssemblyReference.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\obj\Debug\netcoreapp3.1\RetoMetodosStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\obj\Debug\netcoreapp3.1\RetoMetodosStrings.AssemblyInfoInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\obj\Debug\netcoreapp3.1\RetoMetodosStrings.AssemblyInfo.cs
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\obj\Debug\netcoreapp3.1\RetoMetodosStrings.csproj.CoreCompileInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\obj\Debug\netcoreapp3.1\RetoMetodosStrings.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\obj\Debug\netcoreapp3.1\RetoMetodosStrings.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\RetoMetodosStrings\RetoMetodosStrings\obj\Debug\netcoreapp3.1\RetoMetodosStrings.genruntimeconfig.cache
