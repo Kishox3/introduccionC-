@@ -1,0 +1,14 @@
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\bin\Debug\netcoreapp3.1\WhileCycle.exe
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\bin\Debug\netcoreapp3.1\WhileCycle.deps.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\bin\Debug\netcoreapp3.1\WhileCycle.runtimeconfig.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\bin\Debug\netcoreapp3.1\WhileCycle.runtimeconfig.dev.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\bin\Debug\netcoreapp3.1\WhileCycle.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\bin\Debug\netcoreapp3.1\WhileCycle.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\obj\Debug\netcoreapp3.1\WhileCycle.csproj.AssemblyReference.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\obj\Debug\netcoreapp3.1\WhileCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\obj\Debug\netcoreapp3.1\WhileCycle.AssemblyInfoInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\obj\Debug\netcoreapp3.1\WhileCycle.AssemblyInfo.cs
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\obj\Debug\netcoreapp3.1\WhileCycle.csproj.CoreCompileInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\obj\Debug\netcoreapp3.1\WhileCycle.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\obj\Debug\netcoreapp3.1\WhileCycle.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\WhileCycle\WhileCycle\obj\Debug\netcoreapp3.1\WhileCycle.genruntimeconfig.cache
