@@ -1,0 +1,14 @@
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\bin\Debug\netcoreapp3.1\SwitchStatementExample.exe
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\bin\Debug\netcoreapp3.1\SwitchStatementExample.deps.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\bin\Debug\netcoreapp3.1\SwitchStatementExample.runtimeconfig.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\bin\Debug\netcoreapp3.1\SwitchStatementExample.runtimeconfig.dev.json
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\bin\Debug\netcoreapp3.1\SwitchStatementExample.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\bin\Debug\netcoreapp3.1\SwitchStatementExample.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\obj\Debug\netcoreapp3.1\SwitchStatementExample.csproj.AssemblyReference.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\obj\Debug\netcoreapp3.1\SwitchStatementExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\obj\Debug\netcoreapp3.1\SwitchStatementExample.AssemblyInfoInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\obj\Debug\netcoreapp3.1\SwitchStatementExample.AssemblyInfo.cs
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\obj\Debug\netcoreapp3.1\SwitchStatementExample.csproj.CoreCompileInputs.cache
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\obj\Debug\netcoreapp3.1\SwitchStatementExample.dll
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\obj\Debug\netcoreapp3.1\SwitchStatementExample.pdb
+C:\Users\Kisho\OneDrive\Documents\Profesional\Platzi\Microsoft Azure\C#\introduccion\SwitchStatementExample\SwitchStatementExample\obj\Debug\netcoreapp3.1\SwitchStatementExample.genruntimeconfig.cache

@@ -14,6 +14,10 @@ namespace IfStatement
             {
                 message = "OMG are you crazy?";
             }
+            else if (anyValue == 7)
+            {
+                message = "You are over CRAZY!";
+            }
             else
             {
                 message = "Bad luck bro";
